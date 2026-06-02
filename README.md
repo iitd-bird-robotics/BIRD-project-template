@@ -2,7 +2,7 @@
 
 # Project Title
 
-### Description of the project and its primary contribution.
+### Abstract
 
 
 **Keywords:** `robotics` `perception` `navigation` `control`
