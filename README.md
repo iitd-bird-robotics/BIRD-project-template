@@ -1,42 +1,38 @@
+<div align="center">
+
 # 🤖 <Project Title>
 
-![IIT Delhi](https://img.shields.io/badge/IIT%20Delhi-CoE--BIRD-teal)
-![Year](https://img.shields.io/badge/Year-2025--26-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+### One-line description of the project and its primary contribution.
 
-> One-line project summary describing the core contribution or capability.
+**Keywords:** `robotics` `perception` `navigation` `control`
 
----
-
-<p align="center">
-  <img src="media/gifs/demo.gif" width="800"/>
-</p>
+</div>
 
 ---
 
 ## Overview
 
-Briefly describe:
+A concise description of:
 
 * the problem being addressed,
 * why it matters,
-* and the main technical contribution.
+* and the key technical contribution.
 
-Keep this section concise and understandable to a technically literate audience outside the immediate subfield.
+Write for a technically literate audience outside the immediate subfield.
 
 ---
 
 ## System Overview
 
 <p align="center">
-  <img src="media/images/system_overview.png" width="800"/>
+  <img src="media/images/system_overview.png" width="850"/>
 </p>
 
-Short description of the overall system architecture and workflow.
+Brief description of the overall system architecture and workflow.
 
 ---
 
-## Methodology
+## Technical Approach
 
 ### Perception
 
@@ -52,10 +48,56 @@ Brief description.
 
 ### Hardware Platform
 
-| Component      | Details              |
-| -------------- | -------------------- |
-| Robot Platform |                      |
-| Compute        |                      |
+| Component  | Details       |
+| ---------- | ------------- |
+| Platform   |               |
+| Compute    |               |
+| Sensors    |               |
+| Middleware | ROS2 / Custom |
+
+---
+
+## Results
+
+<p align="center">
+  <img src="media/images/results.png" width="750"/>
+</p>
+
+| Metric         | Value |
+| -------------- | ----- |
+| Success Rate   |       |
+| Tracking Error |       |
+| Runtime        |       |
+
+### Key Outcomes
+
+* Key result 1
+* Key result 2
+* Key result 3
+
+---
+
+## Demonstration
+
+<div align="center">
+
+[![Demo Video](media/thumbnails/demo_thumbnail.png)](https://youtube.com/your-link)
+
+**Click above to watch the full demonstration**
+
+</div>
+
+---
+
+## Team
+
+| Role        | Name                |
+| ----------- | ------------------- |
+| Student(s)  |                     |
+| Supervisor  |                     |
+| Affiliation | CoE-BIRD, IIT Delhi |
+
+---
 | Sensors        |                      |
 | Middleware     | ROS2 / Custom / etc. |
 
