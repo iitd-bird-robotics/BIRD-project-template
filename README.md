@@ -2,8 +2,7 @@
 
 # Project Title
 
-### description of the project and its primary contribution.
-
+### Description of the project and its primary contribution.
 
 
 **Keywords:** `robotics` `perception` `navigation` `control`
@@ -16,13 +15,9 @@
 
 A concise description of:
 
-* the problem being addressed,
-* why it matters,
+* problem statement,
+* motivation and use cases,
 * and the key technical contribution.
-
-Write for a technically literate audience outside the immediate subfield.
-
----
 
 ## System Overview
 
@@ -34,7 +29,12 @@ Brief description of the overall system architecture and workflow.
 
 ---
 
-## Technical Approach
+## Methodology
+Briefly discuss the proposed solution approach
+
+
+### Cognition and Reasoning
+Brief description
 
 ### Perception
 
@@ -47,6 +47,9 @@ Brief description.
 ### Control
 
 Brief description.
+
+### Mechanics and Mechanical Design
+Brief description
 
 ### Hardware Platform
 
@@ -61,15 +64,11 @@ Brief description.
 
 ## Results
 
+Include simulation/experimental plots
 <p align="center">
   <img src="media/images/results.png" width="750"/>
 </p>
 
-| Metric         | Value |
-| -------------- | ----- |
-| Success Rate   |       |
-| Tracking Error |       |
-| Runtime        |       |
 
 ### Key Outcomes
 
@@ -80,6 +79,8 @@ Brief description.
 ---
 
 ## Demonstration
+
+Include video if any
 
 <div align="center">
 
