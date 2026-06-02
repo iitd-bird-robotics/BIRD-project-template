@@ -94,10 +94,10 @@ Include video if any
 
 ## Team
 
-| Role        | Name                |
-| ----------- | ------------------- |
-| Student(s)  |                     |
-| Supervisor  |                     |
-| Affiliation | CoE-BIRD, IIT Delhi |
+| Role           | Name                |
+| ---------------| ------------------- |
+| Student(s)     |                     |
+| Supervisor(s)  |                     |
+
 
 ---
