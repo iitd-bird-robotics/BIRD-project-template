@@ -1,18 +1,10 @@
 <div align="center">
 
-# 🤖 <Project Title>
+# Project Title
 
-### One-line description of the project and its primary contribution.
+### description of the project and its primary contribution.
 
-![IIT Delhi](https://img.shields.io/badge/IIT%20Delhi-CoE--BIRD-teal)
-![Year](https://img.shields.io/badge/Year-2025--26-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-<br>
-
-<img src="media/gifs/demo.gif" width="900"/>
-
-<br>
 
 **Keywords:** `robotics` `perception` `navigation` `control`
 
