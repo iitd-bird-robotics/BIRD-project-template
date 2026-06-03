@@ -92,7 +92,7 @@ Include video if any
 
   | Document        | Link |
   |-----------------|------|
-  | Thesis / Report | [report/report.pdf](report/report.pdf) |
+  | Thesis / Report | [report/report.pdf](report/thesis.pdf) |
   | Presentation    | [report/presentation.pdf](report/presentation.pdf) |
 
 
