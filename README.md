@@ -2,9 +2,6 @@
 
 # Project Title
 
-## Abstract
-
-
 **Keywords:** `robotics` `perception` `navigation` `control`
 
 </div>
@@ -20,7 +17,7 @@ A concise description of:
 * and the key technical contribution.
 
 ## System Overview
-
+<!-- replace with your system diagram -->
 <p align="center">
   <img src="media/images/system_overview.png" width="850"/>
 </p>
@@ -63,7 +60,7 @@ Brief description
 ---
 
 ## Results
-
+<!-- replace with your plots -->
 Include simulation/experimental plots
 <p align="center">
   <img src="media/images/results.png" width="750"/>
