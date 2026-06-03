@@ -19,7 +19,7 @@ A concise description of:
 ## System Overview
 <!-- replace with your system diagram -->
 <p align="center">
-  <img src="media/images/system_overview.png" width="850"/>
+  <img src="media/images/system_overview.svg" width="850"/>
 </p>
 
 Brief description of the overall system architecture and workflow.
@@ -63,7 +63,7 @@ Brief description
 <!-- replace with your plots -->
 Include simulation/experimental plots
 <p align="center">
-  <img src="media/images/results.png" width="750"/>
+  <img src="media/images/results.svg" width="750"/>
 </p>
 
 
