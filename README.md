@@ -100,7 +100,7 @@ Include video if any
 
 
 ---  
-    ## Citation
+## Citation
 ```bibtex
     @mastersthesis{authorYEAR,
       author = {},
