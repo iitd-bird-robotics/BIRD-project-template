@@ -91,6 +91,12 @@ Include video if any
 </div>
 
 ---
+| Document | Link |
+    |----------|------|
+    | Thesis / Report | [report/report.pdf](report/report.pdf) |
+    | Presentation | [report/presentation.pdf](report/presentation.pdf) |
+
+---    
 
 ## Team
 
