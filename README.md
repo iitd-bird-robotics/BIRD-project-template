@@ -2,7 +2,7 @@
 
 # Project Title
 
-### Abstract
+## Abstract
 
 
 **Keywords:** `robotics` `perception` `navigation` `control`
@@ -99,7 +99,18 @@ Include video if any
   | Presentation    | [report/presentation.pdf](report/presentation.pdf) |
 
 
----    
+---  
+    ## Citation
+```bibtex
+    @mastersthesis{authorYEAR,
+      author = {},
+      title  = {},
+      school = {Indian Institute of Technology Delhi},
+      year   = {},
+      note   = {M.Tech Robotics (JRB), CoE-BIRD}
+    }
+```
+---
 
 ## Team
 
